@@ -1,0 +1,15 @@
+*{
+margin:0;
+padding: 0;
+}
+h1{
+	text-align: center;
+	color: green;
+}
+.row{
+	justify-content: space-between;
+	display: flex;
+}
+.course-col{
+	flex-basis: 31%;
+}
